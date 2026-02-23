@@ -1,6 +1,6 @@
 # EMSmutagenesis_coh-1
 
-Scripts for analysing sequencing data from EMS mutagenesis strains and their cross progeny from coh-1 mutant (tm580) suppressor screen performed by Kalyan Gadhage.
+Scripts for analysing sequencing data from EMS mutagenesis strains and their cross progeny from coh-1 mutant (tm580) suppressor screen performed by Kalyan Ghadage.
 
 ## nf-sarek detection of variants
 
